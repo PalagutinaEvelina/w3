@@ -12,7 +12,7 @@ int main() {
         cin >> number;
 
         if (number == 0) {
-            break; // завершение цикла при вводе 0
+            break;
         }
 
         count++;
